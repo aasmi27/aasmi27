@@ -1,9 +1,9 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://linkedin.com/in/aasmi-c)
 <h2 align="center">Hi 👋, I'm Aasmi C.</h2>
 <h3 align="center">👨‍💻 Frontend wizard from India with experience in ReactJS, React Native, and AngularJS.</h3>
-<h4 align="center">⚡Building sleek web & mobile apps 🚀</h4>
+<h3 align="center">⚡Building sleek web & mobile apps 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"/>
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"/>
 
 - 🔭 I’m currently working on **Parent Portal Mobile Application**
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **aasmideveloper@gmail.com**
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=aasmi27&theme=radical&hide_border=true&exclude_days=Sun" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=aasmi27&theme=radical&hide_border=true&exclude_days=Sun" height="200" alt="streak graph"  />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasmi27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://github-readme-stats.vercel.app/api?username=aasmi27&show_icons=true&theme=highcontrast&locale=en" height="150" alt="aasmi27" /> -->
 </div>
