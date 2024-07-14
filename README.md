@@ -17,8 +17,8 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=aasmi27&theme=radical&hide_border=true&exclude_days=Sun" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasmi27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=aasmi27&show_icons=true&theme=highcontrast&locale=en" height="150" alt="aasmi27" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasmi27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=aasmi27&show_icons=true&theme=highcontrast&locale=en" height="150" alt="aasmi27" /> -->
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
